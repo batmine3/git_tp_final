@@ -37,7 +37,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
-* Nom Prénom
+* FREYNET Hugo
 * Nom Prénom
 * Nom Prénom
 
