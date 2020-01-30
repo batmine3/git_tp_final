@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * FREYNET Hugo
 * DEMARCHE Baptiste
-* Nom Prénom
+* ALLAOUA Célia
 
 Date du jour : 00/00/0000
 
